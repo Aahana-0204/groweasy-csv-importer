@@ -6,7 +6,7 @@
 
 | | Link |
 |---|---|
-| **Frontend (Vercel)** | https://frontend-a42t8hwjj-aahana-0204s-projects.vercel.app |
+| **Frontend (Vercel)** | https://frontend-omega-nine-qvzgnc29gh.vercel.app |
 | **Backend API (Render)** | https://groweasy-backend-fgq2.onrender.com |
 | **GitHub Repository** | https://github.com/Aahana-0204/groweasy-csv-importer |
 
