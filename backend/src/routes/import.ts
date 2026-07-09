@@ -39,7 +39,12 @@ router.post('/import', (req: Request, res: Response) => {
         return;
       }
 
-      const { records, skipped } = await processAllBatches(rows, headers);
+      // Cap rows to MAX_ROWS and inform the caller
+      const { MAX_ROWS } = await import('../services/batchProcessor');
+      const truncated = rows.length > MAX_ROWS;
+      const processRows = truncated ? rows.slice(0, MAX_ROWS) : rows;
+
+      const { records, skipped } = await processAllBatches(processRows, headers);
 
       const result: ImportResult = {
         success: true,
@@ -48,6 +53,8 @@ router.post('/import', (req: Request, res: Response) => {
         skipped: skipped.length,
         records,
         skipped_records: skipped,
+        truncated,
+        processed_rows: processRows.length,
       };
 
       res.json(result);

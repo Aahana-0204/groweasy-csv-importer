@@ -1,8 +1,10 @@
 import { CRMRecord, SkippedRecord } from '../types/crm';
 import { extractWithAI } from './aiExtractor';
 
-const BATCH_SIZE = 10;
+const BATCH_SIZE = 25;       // rows per AI call
+const CONCURRENT = 5;        // parallel AI calls at once
 const MAX_RETRIES = 3;
+export const MAX_ROWS = 500; // cap to keep response times reasonable
 
 export interface BatchResult {
   records: CRMRecord[];
@@ -15,17 +17,14 @@ async function processBatchWithRetry(
   batchIndex: number,
   retries = MAX_RETRIES
 ): Promise<BatchResult> {
+  const offset = batchIndex * BATCH_SIZE;
+
   for (let attempt = 1; attempt <= retries; attempt += 1) {
     try {
       const result = await extractWithAI(batch, headers);
-      const offset = batchIndex * BATCH_SIZE;
-
       return {
         records: result.records,
-        skipped: result.skipped.map((item) => ({
-          ...item,
-          row: offset + item.row,
-        })),
+        skipped: result.skipped.map((item) => ({ ...item, row: offset + item.row })),
       };
     } catch (error) {
       console.error(`Batch ${batchIndex} attempt ${attempt} failed:`, error);
@@ -33,13 +32,12 @@ async function processBatchWithRetry(
         return {
           records: [],
           skipped: batch.map((data, index) => ({
-            row: batchIndex * BATCH_SIZE + index,
+            row: offset + index,
             reason: `AI processing failed after ${retries} retries`,
             data,
           })),
         };
       }
-
       await new Promise((resolve) => setTimeout(resolve, 1000 * attempt));
     }
   }
@@ -54,20 +52,28 @@ export async function processAllBatches(
 ): Promise<BatchResult> {
   const allRecords: CRMRecord[] = [];
   const allSkipped: SkippedRecord[] = [];
-  const batches: Record<string, string>[][] = [];
 
-  for (let index = 0; index < rows.length; index += BATCH_SIZE) {
-    batches.push(rows.slice(index, index + BATCH_SIZE));
+  // Split into batches
+  const batches: Record<string, string>[][] = [];
+  for (let i = 0; i < rows.length; i += BATCH_SIZE) {
+    batches.push(rows.slice(i, i + BATCH_SIZE));
   }
 
   let processed = 0;
 
-  for (let batchIndex = 0; batchIndex < batches.length; batchIndex += 1) {
-    const result = await processBatchWithRetry(batches[batchIndex], headers, batchIndex);
-    allRecords.push(...result.records);
-    allSkipped.push(...result.skipped);
-    processed += batches[batchIndex].length;
-    onProgress?.(processed, rows.length);
+  // Process CONCURRENT batches at a time (parallel)
+  for (let i = 0; i < batches.length; i += CONCURRENT) {
+    const chunk = batches.slice(i, i + CONCURRENT);
+    const results = await Promise.all(
+      chunk.map((batch, j) => processBatchWithRetry(batch, headers, i + j))
+    );
+
+    for (let j = 0; j < results.length; j++) {
+      allRecords.push(...results[j].records);
+      allSkipped.push(...results[j].skipped);
+      processed += chunk[j].length;
+      onProgress?.(processed, rows.length);
+    }
   }
 
   return { records: allRecords, skipped: allSkipped };

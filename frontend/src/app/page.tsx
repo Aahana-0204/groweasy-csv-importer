@@ -123,6 +123,11 @@ export default function Home() {
                 <ChevronRight size={16} />
               </button>
             </div>
+            {rows.length > 500 ? (
+              <div className="rounded-xl border border-yellow-200 bg-yellow-50 px-4 py-3 text-sm text-yellow-800 dark:border-yellow-700 dark:bg-yellow-900/20 dark:text-yellow-300">
+                ⚠️ Your CSV has <strong>{rows.length} rows</strong>. Only the first <strong>500 rows</strong> will be processed by AI to ensure a fast, reliable response.
+              </div>
+            ) : null}
             <CSVPreviewTable headers={headers} rows={rows} />
             <p className="text-center text-xs text-gray-400">
               Showing all {rows.length} rows | AI will map {headers.length} columns to CRM fields
@@ -146,15 +151,20 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div>
                 <h2 className="flex items-center gap-2 text-xl font-bold text-gray-900 dark:text-white">
-                  <span className="text-green-500">Success</span> Import Complete
+                  <span className="text-green-500">✓</span> Import Complete
                 </h2>
                 <p className="mt-0.5 text-sm text-gray-500">AI successfully processed and mapped your CSV data</p>
               </div>
             </div>
+            {result.truncated ? (
+              <div className="rounded-xl border border-yellow-200 bg-yellow-50 px-4 py-3 text-sm text-yellow-800 dark:border-yellow-700 dark:bg-yellow-900/20 dark:text-yellow-300">
+                ℹ️ Your file had <strong>{result.total_rows} rows</strong>. The first <strong>{result.processed_rows} rows</strong> were processed.
+              </div>
+            ) : null}
             <ResultsTable
               records={result.records}
               skippedRecords={result.skipped_records}
-              totalRows={result.total_rows}
+              totalRows={result.processed_rows}
             />
           </div>
         ) : null}

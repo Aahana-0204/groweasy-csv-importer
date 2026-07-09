@@ -69,7 +69,7 @@ export function useCSVImport() {
 
       const response = await axios.post<ImportResult>(`${API_URL}/api/import`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
-        timeout: 120000,
+        timeout: 0, // no timeout — large files need time
       });
 
       window.clearInterval(progressInterval);

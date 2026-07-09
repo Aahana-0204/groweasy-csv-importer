@@ -28,8 +28,10 @@ export interface SkippedRecord {
 export interface ImportResult {
   success: boolean;
   total_rows: number;
+  processed_rows: number;
   imported: number;
   skipped: number;
+  truncated: boolean;
   records: CRMRecord[];
   skipped_records: SkippedRecord[];
 }
