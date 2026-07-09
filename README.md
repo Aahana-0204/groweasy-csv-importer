@@ -2,6 +2,16 @@
 
 > AI-powered CSV importer that intelligently maps any CSV format into GrowEasy CRM fields using Google Gemini.
 
+## 🚀 Live Demo
+
+| | Link |
+|---|---|
+| **Frontend (Vercel)** | https://frontend-a42t8hwjj-aahana-0204s-projects.vercel.app |
+| **Backend API (Render)** | https://groweasy-backend-fgq2.onrender.com |
+| **GitHub Repository** | https://github.com/Aahana-0204/groweasy-csv-importer |
+
+> **Note:** Backend is on Render free tier — first request may take ~1-2 min to wake up (cold start). Subsequent requests are fast.
+
 ## Features
 
 - Upload any CSV (Facebook Ads, Google Ads, Excel, Real Estate CRM, etc.)
