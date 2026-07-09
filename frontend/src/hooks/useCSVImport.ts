@@ -58,10 +58,11 @@ export function useCSVImport() {
     const totalRows = rows.length;
     let fakeProgress = 0;
     const progressInterval = window.setInterval(() => {
-      fakeProgress = Math.min(fakeProgress + Math.random() * 8, 85);
+      // Slow fake progress, cap at 50% — real completion jumps to 100%
+      fakeProgress = Math.min(fakeProgress + Math.random() * 3, 50);
       setProgress(fakeProgress);
       setProcessedRows(Math.floor((fakeProgress / 100) * totalRows));
-    }, 800);
+    }, 1000);
 
     try {
       const formData = new FormData();

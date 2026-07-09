@@ -1,6 +1,6 @@
 import { Request, Response, Router } from 'express';
 import multer from 'multer';
-import { processAllBatches } from '../services/batchProcessor';
+import { processAllBatches, MAX_ROWS } from '../services/batchProcessor';
 import { parseCSV } from '../services/csvParser';
 import { ImportResult } from '../types/crm';
 
@@ -40,7 +40,6 @@ router.post('/import', (req: Request, res: Response) => {
       }
 
       // Cap rows to MAX_ROWS and inform the caller
-      const { MAX_ROWS } = await import('../services/batchProcessor');
       const truncated = rows.length > MAX_ROWS;
       const processRows = truncated ? rows.slice(0, MAX_ROWS) : rows;
 
