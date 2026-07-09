@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 
 import { useEffect, useState } from 'react';
 import { ChevronRight, FileText, RefreshCw, Sparkles, Wifi, WifiOff, Loader } from 'lucide-react';
@@ -10,7 +10,7 @@ import StepIndicator from '@/components/StepIndicator';
 import ThemeToggle from '@/components/ThemeToggle';
 import { useCSVImport } from '@/hooks/useCSVImport';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+const API_URL = '';
 
 export default function Home() {
   const [backendStatus, setBackendStatus] = useState<'checking' | 'online' | 'offline'>('checking');
@@ -158,7 +158,7 @@ export default function Home() {
             </div>
             {rows.length > 500 ? (
               <div className="rounded-xl border border-yellow-200 bg-yellow-50 px-4 py-3 text-sm text-yellow-800 dark:border-yellow-700 dark:bg-yellow-900/20 dark:text-yellow-300">
-                ⚠️ Your CSV has <strong>{rows.length} rows</strong>. Only the first <strong>500 rows</strong> will be processed by AI to ensure a fast, reliable response.
+                âš ï¸ Your CSV has <strong>{rows.length} rows</strong>. Only the first <strong>500 rows</strong> will be processed by AI to ensure a fast, reliable response.
               </div>
             ) : null}
             <CSVPreviewTable headers={headers} rows={rows} />
@@ -184,14 +184,14 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div>
                 <h2 className="flex items-center gap-2 text-xl font-bold text-gray-900 dark:text-white">
-                  <span className="text-green-500">✓</span> Import Complete
+                  <span className="text-green-500">âœ“</span> Import Complete
                 </h2>
                 <p className="mt-0.5 text-sm text-gray-500">AI successfully processed and mapped your CSV data</p>
               </div>
             </div>
             {result.truncated ? (
               <div className="rounded-xl border border-yellow-200 bg-yellow-50 px-4 py-3 text-sm text-yellow-800 dark:border-yellow-700 dark:bg-yellow-900/20 dark:text-yellow-300">
-                ℹ️ Your file had <strong>{result.total_rows} rows</strong>. The first <strong>{result.processed_rows} rows</strong> were processed.
+                â„¹ï¸ Your file had <strong>{result.total_rows} rows</strong>. The first <strong>{result.processed_rows} rows</strong> were processed.
               </div>
             ) : null}
             <ResultsTable
@@ -205,3 +205,4 @@ export default function Home() {
     </div>
   );
 }
+

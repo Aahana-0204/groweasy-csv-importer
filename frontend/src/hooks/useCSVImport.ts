@@ -1,11 +1,11 @@
-'use client';
+﻿'use client';
 
 import axios from 'axios';
 import Papa from 'papaparse';
 import { useCallback, useState } from 'react';
 import { ImportResult, Step } from '@/types/crm';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
+const API_URL = '';
 
 export function useCSVImport() {
   const [step, setStep] = useState<Step>(1);
@@ -58,7 +58,7 @@ export function useCSVImport() {
     const totalRows = rows.length;
     let fakeProgress = 0;
     const progressInterval = window.setInterval(() => {
-      // Slow fake progress, cap at 50% — real completion jumps to 100%
+      // Slow fake progress, cap at 50% â€” real completion jumps to 100%
       fakeProgress = Math.min(fakeProgress + Math.random() * 3, 50);
       setProgress(fakeProgress);
       setProcessedRows(Math.floor((fakeProgress / 100) * totalRows));
@@ -70,7 +70,7 @@ export function useCSVImport() {
 
       const response = await axios.post<ImportResult>(`${API_URL}/api/import`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
-        timeout: 0, // no timeout — large files need time
+        timeout: 0, // no timeout â€” large files need time
       });
 
       window.clearInterval(progressInterval);
@@ -120,3 +120,4 @@ export function useCSVImport() {
     handleReset,
   };
 }
+
