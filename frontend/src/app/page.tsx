@@ -10,7 +10,7 @@ import StepIndicator from '@/components/StepIndicator';
 import ThemeToggle from '@/components/ThemeToggle';
 import { useCSVImport } from '@/hooks/useCSVImport';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || '';
 
 export default function Home() {
   const [backendStatus, setBackendStatus] = useState<'checking' | 'online' | 'offline'>('checking');
@@ -18,14 +18,13 @@ export default function Home() {
   useEffect(() => {
     const ping = async () => {
       try {
-        const res = await fetch(`${API_URL}/health`, { signal: AbortSignal.timeout(15000) });
+        const res = await fetch(`${API_URL}/api/health`, { signal: AbortSignal.timeout(10000) });
         setBackendStatus(res.ok ? 'online' : 'offline');
       } catch {
         setBackendStatus('offline');
       }
     };
     ping();
-    // Keep backend warm every 9 minutes while page is open
     const interval = setInterval(ping, 9 * 60 * 1000);
     return () => clearInterval(interval);
   }, []);
