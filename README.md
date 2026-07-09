@@ -1,1 +1,207 @@
-‣片睯慅祳䌠噓䤠灭牯整ੲℊ乛硥⹴獪⡝瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧丯硥⹴獪ㄭⴴ汢捡㽫潬潧渽硥⹴獪਩嬡祔数捓楲瑰⡝瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧启灹卥牣灩⵴瑓楲瑣戭畬㽥潬潧琽灹獥牣灩⥴ℊ䕛灸敲獳⡝瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧䔯灸敲獳㐭ㄮⴸ楬桧杴敲㽹潬潧攽灸敲獳਩嬡敇業楮⡝瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧䄯ⵉ敇業楮㈥㄰㔮㈥䘰慬桳漭慲杮⥥ℊ䑛灥潬浹湥嵴栨瑴獰⼺椯杭献楨汥獤椮⽯慢杤⽥敄汰祯嘭牥散╬〲㈥╂〲敒摮牥札敲湥਩倊潲畤瑣潩⵮敲摡⁹䥁瀭睯牥摥䌠噓椠灭牯整⁲潦⁲桴⁥片睯慅祳愠獳杩浮湥⹴吠敨愠灰愠捣灥獴愠扲瑩慲祲䌠噓氠慥⁤硥潰瑲ⱳ瀠敲楶睥⁳慲⁷慤慴‬敳摮⁳潲獷琠⁯⁡潎敤䔯灸敲獳䄠䥐‬湡⁤獵獥䜠潯汧⁥敇業楮ㄠ㔮䘠慬桳琠⁯湩整汬杩湥汴⁹慭⁰慶楬⁤敬摡⁳湩潴䜠潲䕷獡⁹剃⁍楦汥獤ਮ⌊‣敆瑡牵獥ਊ‭灕潬摡愠祮瘠污摩䌠噓甠⁰潴ㄠ䴰ੂ‭潗歲⁳楷桴瘠牡楹杮栠慥敤獲‬潣畬湭渠浡獥‬湡⁤慬潹瑵ੳ‭䥁瀭睯牥摥䌠䵒映敩摬攠瑸慲瑣潩⁮獵湩⁧敇業楮ㄠ㔮䘠慬桳ⴊ䈠瑡档瀠潲散獳湩⁧湩挠畨歮⁳景ㄠ‰潲獷ⴊ匠楫獰爠睯⁳業獳湩⁧潢桴攠慭汩愠摮洠扯汩੥‭浓牡⁴潮浲污穩瑡潩⁮潦⁲慤整ⱳ猠慴畴⁳慶畬獥‬慤慴猠畯捲ⱥ攠慭汩ⱳ愠摮瀠潨敮ੳ‭汃慥⁮畭瑬⵩瑳灥唠⁘楷桴搠牡⁫潭敤猠灵潰瑲ⴊ嘠物畴污穩摥䌠噓瀠敲楶睥映牯氠牡敧映汩獥ⴊ䐠睯汮慯⁤牴湡晳牯敭⁤剃ⵍ敲摡⁹千⁖畯灴瑵ⴊ删慥祤映牯嘠牥散⁬昨潲瑮湥⥤愠摮删湥敤⁲戨捡敫摮਩⌊‣牐橯捥⁴瑓畲瑣牵੥怊恠整瑸朊潲敷獡⵹獣⵶浩潰瑲牥ਯ⴫‭慢正湥⽤ꘊ†⬠ⴭ猠捲ਯ₦†₦†⴫‭湩敤⹸獴ꘊ†꘠†⬠ⴭ爠畯整⽳浩潰瑲琮ੳ₦†₦†⴫‭敳癲捩獥ਯ₦†₦†₦†⴫‭楡硅牴捡潴⹲獴ꘊ†꘠†꘠†⬠ⴭ戠瑡档牐捯獥潳⹲獴ꘊ†꘠†꘠†⬠ⴭ挠癳慐獲牥琮ੳ₦†₦†⴫‭祴数⽳牣⹭獴ꘊ†⬠ⴭ⸠湥੶₦†⴫‭攮癮攮慸灭敬ꘊ†⬠ⴭ瀠捡慫敧樮潳੮₦†⴫‭獴潣普杩樮潳੮⴫‭牦湯整摮ਯ₦†⴫‭牳⽣ꘊ†꘠†⬠ⴭ愠灰ਯ₦†₦†⴫‭潣灭湯湥獴ਯ₦†₦†⴫‭潨歯⽳ꘊ†꘠†⬠ⴭ琠灹獥ਯ₦†⴫‭攮癮攮慸灭敬ꘊ†⬠ⴭ⸠湥⹶潬慣੬₦†⴫‭敮瑸攭癮搮琮ੳ₦†⴫‭敮瑸挮湯楦⹧獪ꘊ†⬠ⴭ瀠捡慫敧樮潳੮₦†⴫‭潰瑳獣⹳潣普杩樮ੳ₦†⴫‭慴汩楷摮挮湯楦⹧獴ꘊ†⬠ⴭ琠捳湯楦⹧獪湯⬊ⴭ⸠楧楴湧牯੥⴫‭䕒䑁䕍洮੤⴫‭敲摮牥礮浡੬恠੠⌊‣敔档匠慴正ਊ⌣‣牆湯整摮ⴊ丠硥⹴獪ㄠ‴䄨灰删畯整⥲ⴊ删慥瑣ㄠਸ‭祔数捓楲瑰ⴊ吠楡睬湩⁤千੓‭慐慰倠牡敳ⴊ删慥瑣䐠潲穰湯੥‭慔卮慴正嘠物畴污ⴊ䄠楸獯ਊ⌣‣慂正湥੤‭潎敤樮ੳ‭硅牰獥ੳ‭祔数捓楲瑰ⴊ䴠汵整ੲ‭獣⵶慰獲੥‭潇杯敬䜠浥湩⁩楶⁡䁠潧杯敬术湥牥瑡癩ⵥ楡੠‭潤整癮ਊ⌣䌠䵒䘠敩摬⁳敒敦敲据੥簊䘠敩摬簠䐠獥牣灩楴湯簠丠瑯獥簠簊ⴭ簭ⴭ簭ⴭ簭簊怠牣慥整彤瑡⁠⁼敌摡挠敲瑡潩⁮楴敭瑳浡⁰⁼潎浲污穩摥琠⁯⁡半怠敮⁷慄整⤨⁠潣灭瑡扩敬猠牴湩⁧੼⁼湠浡恥簠䰠慥⁤畦汬渠浡⁥⁼䥁洠灡⁳汦硥扩敬猠畯捲⁥敨摡牥⁳੼⁼敠慭汩⁠⁼牐浩牡⁹浥楡⁬⁼硅牴⁡浥楡獬洠癯⁥潴怠牣彭潮整⁠੼⁼捠畯瑮祲损摯恥簠䴠扯汩⁥楤污湩⁧潣敤簠䔠慸灭敬›⭠ㄹ⁠੼⁼浠扯汩彥楷桴畯彴潣湵牴役潣敤⁠⁼潍楢敬搠杩瑩⁳湯祬簠䌠畯瑮祲挠摯⁥敲潭敶⁤桷湥搠瑥捥整⁤੼⁼捠浯慰祮⁠⁼潃灭湡⁹慮敭簠传瑰潩慮⁬੼⁼捠瑩恹簠䌠瑩⁹⁼灏楴湯污簠簊怠瑳瑡恥簠匠慴整漠⁲牰癯湩散簠传瑰潩慮⁬੼⁼捠畯瑮祲⁠⁼潃湵牴⁹慮敭簠传瑰潩慮⁬੼⁼池慥彤睯敮恲簠䰠慥⁤睯敮⁲⁼獕慵汬⁹湡攠慭汩漠⁲慳敬灳牥潳⁮੼⁼捠浲獟慴畴恳簠䌠䵒瀠灩汥湩⁥瑳瑡獵簠传敮漠⁦䝠住彄䕌䑁䙟䱏佌彗偕Ⱡ怠䥄彄低彔佃乎䍅恔‬䉠䑁䱟䅅恄‬占䱁彅佄䕎Ⱡ漠⁲汢湡⁫੼⁼捠浲湟瑯恥簠丠瑯獥愠摮漠敶晲潬⁷湩潦簠䔠瑸慲攠慭汩ⱳ瀠潨敮ⱳ爠浥牡獫‬潦汬睯甭⁰潮整⁳੼⁼摠瑡彡潳牵散⁠⁼潓牵散椠敤瑮晩敩⁲⁼湏⁥景怠敬摡彳湯摟浥湡恤‬浠牥摩慩彮潴敷恲‬敠敤彮慰歲Ⱡ怠慶慲彨睳浡恹‬獠牡慪異彲汰瑯恳‬牯戠慬歮簠簊怠潰獳獥楳湯瑟浩恥簠倠潲数瑲⁹潰獳獥楳湯琠浩湩⁧⁼灏楴湯污簠簊怠敤捳楲瑰潩恮簠䄠摤瑩潩慮⁬敤捳楲瑰潩⁮⁼灏楴湯污簠ਊ⌣䄠⁉畒敬ੳⴊ怠牣彭瑳瑡獵⁠畭瑳戠⁥湯⁥景਺†‭䝠住彄䕌䑁䙟䱏佌彗偕੠†‭䑠䑉也呏䍟乏䕎呃੠†‭䉠䑁䱟䅅恄 ⴠ怠䅓䕌䑟乏恅ⴊ怠慤慴獟畯捲恥洠獵⁴敢漠敮漠㩦 ⴠ怠敬摡彳湯摟浥湡恤 ⴠ怠敭楲楤湡瑟睯牥੠†‭敠敤彮慰歲੠†‭癠牡桡獟慷祭੠†‭獠牡慪異彲汰瑯恳 ⴠ漠⁲汢湡੫‭捠敲瑡摥慟恴洠獵⁴敢䨠ⵓ慤整挠浯慰楴汢੥‭敒潣摲⁳楷桴渠楥桴牥攠慭汩渠牯洠扯汩⁥牡⁥歳灩数੤‭硅牴⁡浥楡獬‬桰湯獥‬敲慭歲ⱳ愠摮映汯潬⵷灵渠瑯獥愠敲猠潴敲⁤湩怠牣彭潮整੠‭潒獷愠敲瀠潲散獳摥椠⁮慢捴敨⁳景ㄠਰ⌊‣潌慣⁬敄敶潬浰湥⁴敓畴ੰ⌊⌣ㄠ‮灏湥琠敨瀠潲敪瑣ਊ恠扠獡੨摣朠潲敷獡⵹獣⵶浩潰瑲牥怊恠ਊ⌣‣⸲䤠獮慴汬搠灥湥敤据敩ੳ怊恠慢桳挊⁤慢正湥੤灮⁭湩瑳污੬摣⸠尮牦湯整摮渊浰椠獮慴汬怊恠ਊ⌣‣⸳䌠湯楦畧敲攠癮物湯敭瑮瘠牡慩汢獥ਊ⌣⌣䈠捡敫摮›扠捡敫摮ⸯ湥恶ਊ恠敠癮䜊䵅义彉偁彉䕋㵙潹牵束浥湩彩灡彩敫役敨敲倊剏㵔〵〰䘊佒呎久彄剕㵌瑨灴⼺氯捯污潨瑳㌺〰ਰ恠੠⌊⌣‣牆湯整摮›晠潲瑮湥⽤攮癮氮捯污੠怊恠湥੶䕎员偟䉕䥌彃偁彉剕㵌瑨灴⼺氯捯污潨瑳㔺〰ਰ恠੠⌊⌣㐠‮畒⁮潬慣汬੹䈊捡敫摮਺怊恠慢桳挊⁤慢正湥੤灮⁭畲⁮敤੶恠੠䘊潲瑮湥㩤ਊ恠扠獡੨摣映潲瑮湥੤灮⁭畲⁮敤੶恠੠吊敨⁮灯湥怠瑨灴⼺氯捯污潨瑳㌺〰怰ਮ⌊‣慂正湥⁤偁⁉潄畣敭瑮瑡潩੮⌊⌣䠠慥瑬⁨桃捥੫⨊䜪呅⨪怠栯慥瑬恨ਊ敒灳湯敳਺怊恠獪湯笊 ∠瑳瑡獵㨢∠歯Ⱒ ∠楴敭瑳浡≰›㈢㈰ⴶ㜰〭吹〱〺㨰〰〮〰≚紊怊恠ਊ⌣‣浉潰瑲䌠噓ਊ⨪佐呓⨪怠愯楰椯灭牯恴ਊ⌣⌣删煥敵瑳ⴊ䌠湯整瑮吭灹㩥怠畭瑬灩牡⽴潦浲搭瑡恡ⴊ䘠敩摬渠浡㩥怠楦敬੠‭捁散瑰摥›⹠獣恶ⴊ䴠硡映汩⁥楳敺›ㅠ䴰恂ਊ⌣⌣䔠慸灭敬挠牵੬怊恠慢桳挊牵⁬堭倠协⁔瑨灴⼺氯捯污潨瑳㔺〰⼰灡⽩浩潰瑲帠 ⴠ⁆昢汩㵥獀浡汰⹥獣≶怊恠ਊ⌣⌣匠捵散獳爠獥潰獮੥怊恠獪湯笊 ∠畳捣獥≳›牴敵ਬ†琢瑯污牟睯≳›㔲ਬ†椢灭牯整≤›ㄲਬ†猢楫灰摥㨢㐠ਬ†爢捥牯獤㨢嬠ⱝ ∠歳灩数彤敲潣摲≳›嵛紊怊恠ਊ⌣⌣䔠牲牯爠獥潰獮੥怊恠獪湯笊 ∠牥潲≲›伢汮⁹千⁖楦敬⁳牡⁥污潬敷≤紊怊恠ਊ⌣䔠癮物湯敭瑮嘠牡慩汢獥ਊ⌣‣慂正湥੤簊嘠牡慩汢⁥⁼敒畱物摥簠䐠晥畡瑬簠䐠獥牣灩楴湯簠簊ⴭ簭ⴭ簭ⴭ簭ⴭ簭簊怠䕇䥍䥎䅟䥐䭟奅⁠⁼教⁳⁼潮敮簠䜠潯汧⁥敇業楮䄠䥐欠祥簠簊怠佐呒⁠⁼潎簠怠〵〰⁠⁼硅牰獥⁳敳癲牥瀠牯⁴੼⁼䙠佒呎久彄剕恌簠丠⁯⁼桠瑴㩰⼯潬慣桬獯㩴〳〰⁠⁼汁潬敷⁤佃卒漠楲楧⁮੼⌊⌣䘠潲瑮湥੤簊嘠牡慩汢⁥⁼敒畱物摥簠䐠晥畡瑬簠䐠獥牣灩楴湯簠簊ⴭ簭ⴭ簭ⴭ簭ⴭ簭簊怠䕎员偟䉕䥌彃偁彉剕恌簠夠獥簠怠瑨灴⼺氯捯污潨瑳㔺〰怰簠䈠捡敫摮戠獡⁥剕⁌੼⌊‣敄汰祯敭瑮䜠極敤ਊ⌣‣牆湯整摮漠⁮敖捲汥ਊ⸱倠獵⁨桴⁥敲潰楳潴祲琠⁯楇䡴扵ਮ⸲䤠灭牯⁴桴⁥晠潲瑮湥恤映汯敤⁲獡愠嘠牥散⁬牰橯捥⹴㌊‮敓⁴桴⁥潲瑯搠物捥潴祲琠⁯晠潲瑮湥恤ਮ⸴䄠摤攠癮物湯敭瑮瘠牡慩汢㩥 †‭习塅彔啐䱂䍉䅟䥐啟䱒栽瑴獰⼺㰯潹牵爭湥敤⵲敳癲捩㹥漮牮湥敤⹲潣恭㔊‮敄汰祯ਮ⌊⌣䈠捡敫摮漠⁮敒摮牥ਊ⸱䌠敲瑡⁥⁡敮⁷敗⁢敓癲捩⁥湯删湥敤⹲㈊‮潐湩⁴敒摮牥琠⁯桴獩爠灥獯瑩牯⹹㌊‮敓⁴桴⁥潲瑯搠物捥潴祲琠⁯扠捡敫摮⹠㐊‮獕⁥牠湥敤⹲慹汭⁠牯挠湯楦畧敲洠湡慵汬㩹 †‭畂汩⁤潣浭湡㩤怠灮⁭湩瑳污⁬☦渠浰爠湵戠極摬੠†ⴠ匠慴瑲挠浯慭摮›湠浰猠慴瑲੠⸵䄠摤攠癮物湯敭瑮瘠牡慩汢獥਺†ⴠ怠䕇䥍䥎䅟䥐䭟奅੠†ⴠ怠剆乏䕔䑎啟䱒੠†ⴠ怠低䕄䕟噎瀽潲畤瑣潩恮㘊‮敄汰祯ਮ⌊‣慖楬慤楴湯䌠浯慭摮ੳ䈊捡敫摮琠灹ⵥ档捥㩫ਊ恠扠獡੨摣戠捡敫摮渊硰琠捳ⴠ渭䕯業ੴ恠੠䘊潲瑮湥⁤祴数挭敨正਺怊恠慢桳挊⁤牦湯整摮渊硰琠捳ⴠ渭䕯業ੴ恠੠伊瑰潩慮⁬畢汩獤਺怊恠慢桳挊⁤慢正湥੤灮⁭畲⁮畢汩੤摣⸠尮牦湯整摮渊浰爠湵戠極摬怊恠ਊ⌣匠牣敥獮潨獴ਊ‾摁⁤捳敲湥桳瑯⁳敨敲戠晥牯⁥畳浢獩楳湯ਮⴊ唠汰慯⁤捳敲湥ⴊ䌠噓瀠敲楶睥猠牣敥੮‭䥁瀠潲散獳湩⁧捳敲湥ⴊ删獥汵獴猠牣敥੮⌊‣潎整ੳⴊ怠攮癮⁠楦敬⁳牡⁥杩潮敲⁤祢䜠瑩ਮ‭潎爠慥⁬偁⁉敫獹愠敲挠浯業瑴摥ਮ‭慂正湥⁤敲灳湯敳⁳牡⁥潮浲污穩摥搠晥湥楳敶祬琠⁯敲畤散洠污潦浲摥䄠⁉畯灴瑵椠獳敵⹳ⴊ吠敨映潲瑮湥⁤楳畭慬整⁳牰杯敲獳眠楨敬琠敨戠捡敫摮瀠潲散獳獥攠捡⁨慢捴⹨਍
+﻿# GrowEasy CSV Importer
+
+> AI-powered CSV importer that intelligently maps any CSV format into GrowEasy CRM fields using Google Gemini.
+
+## Features
+
+- Upload any CSV (Facebook Ads, Google Ads, Excel, Real Estate CRM, etc.)
+- Drag & drop or file picker upload
+- CSV preview with sticky headers, horizontal & vertical scrolling
+- Virtualized table for large files (handles 10,000+ rows smoothly)
+- AI field mapping via Google Gemini 1.5 Flash — works with any column names
+- Batch processing (10 rows/batch) with retry mechanism (3 retries + backoff)
+- Skips records with neither email nor mobile
+- Results table with Imported / Skipped tabs
+- Export results as CRM-ready CSV
+- Progress indicator during AI processing
+- Dark mode support
+- Full TypeScript throughout
+
+## Tech Stack
+
+| Layer | Tech |
+|---|---|
+| Frontend | Next.js 14, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express, TypeScript |
+| AI | Google Gemini 1.5 Flash |
+| Deployment | Vercel (frontend) + Render (backend) |
+
+## CRM Fields
+
+| Field | Description |
+|---|---|
+| `created_at` | Lead creation timestamp |
+| `name` | Full name |
+| `email` | Primary email |
+| `country_code` | Dialing code e.g. +91 |
+| `mobile_without_country_code` | Digits only |
+| `company` | Company name |
+| `city` | City |
+| `state` | State / Province |
+| `country` | Country |
+| `lead_owner` | Assigned sales person |
+| `crm_status` | One of: GOOD_LEAD_FOLLOW_UP, DID_NOT_CONNECT, BAD_LEAD, SALE_DONE |
+| `crm_note` | Remarks, extra emails, extra phones, follow-up notes |
+| `data_source` | One of: leads_on_demand, meridian_tower, eden_park, varah_swamy, sarjapur_plots |
+| `possession_time` | Property possession timing |
+| `description` | Additional description |
+
+## Local Development Setup
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Aahana-0204/groweasy-csv-importer.git
+cd groweasy-csv-importer
+```
+
+### 2. Get a free Gemini API key
+
+Go to https://aistudio.google.com — click "Get API Key" — it is free.
+
+### 3. Configure backend environment
+
+```bash
+cd backend
+cp .env.example .env
+```
+
+Edit `backend/.env`:
+```
+GEMINI_API_KEY=your_gemini_api_key_here
+PORT=5000
+FRONTEND_URL=http://localhost:3000
+```
+
+### 4. Configure frontend environment
+
+```bash
+cd frontend
+cp .env.example .env.local
+```
+
+`frontend/.env.local` is already set to:
+```
+NEXT_PUBLIC_API_URL=http://localhost:5000
+```
+
+### 5. Install dependencies
+
+```bash
+# Backend
+cd backend
+npm install
+
+# Frontend
+cd ../frontend
+npm install
+```
+
+### 6. Run locally
+
+Open two terminals:
+
+**Terminal 1 — Backend:**
+```bash
+cd backend
+npm run dev
+# Runs on http://localhost:5000
+```
+
+**Terminal 2 — Frontend:**
+```bash
+cd frontend
+npm run dev
+# Runs on http://localhost:3000
+```
+
+Open http://localhost:3000 in your browser.
+
+## Backend API
+
+### Health Check
+```
+GET /health
+```
+
+### Import CSV
+```
+POST /api/import
+Content-Type: multipart/form-data
+Field: file (CSV file, max 10MB)
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "total_rows": 25,
+  "imported": 21,
+  "skipped": 4,
+  "records": [...],
+  "skipped_records": [
+    { "row": 3, "reason": "No email or mobile found", "data": {} }
+  ]
+}
+```
+
+## Deployment
+
+### Frontend on Vercel (free)
+
+1. Push repo to GitHub
+2. Go to https://vercel.com and import the repo
+3. Set Root Directory to `frontend`
+4. Add environment variable: `NEXT_PUBLIC_API_URL=https://your-render-backend.onrender.com`
+5. Deploy
+
+### Backend on Render (free)
+
+1. Go to https://render.com and create a new Web Service
+2. Connect your GitHub repo
+3. Set Root Directory to `backend`
+4. Build Command: `npm install && npm run build`
+5. Start Command: `npm start`
+6. Add environment variables:
+   - `GEMINI_API_KEY` = your Gemini API key
+   - `FRONTEND_URL` = your Vercel frontend URL
+   - `NODE_ENV` = production
+7. Deploy
+
+## Project Structure
+
+```
+groweasy-csv-importer/
+├── backend/
+│   ├── src/
+│   │   ├── index.ts              # Express server entry
+│   │   ├── routes/import.ts      # POST /api/import route
+│   │   ├── services/
+│   │   │   ├── aiExtractor.ts    # Gemini AI field mapping
+│   │   │   ├── batchProcessor.ts # Batch + retry logic
+│   │   │   └── csvParser.ts      # CSV parsing
+│   │   └── types/crm.ts          # TypeScript types
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── app/page.tsx          # Main page (4-step flow)
+│   │   ├── components/
+│   │   │   ├── DropZone.tsx      # Drag & drop upload
+│   │   │   ├── CSVPreviewTable.tsx  # Virtualized preview
+│   │   │   ├── ResultsTable.tsx  # Import results
+│   │   │   ├── ProgressBar.tsx   # AI processing indicator
+│   │   │   ├── StepIndicator.tsx # Step 1-4 progress
+│   │   │   └── ThemeToggle.tsx   # Dark mode toggle
+│   │   ├── hooks/useCSVImport.ts # All import state logic
+│   │   └── types/crm.ts          # TypeScript types
+│   └── package.json
+├── render.yaml                   # Render deployment config
+└── README.md
+```
+
+## Notes
+
+- `.env` files are git-ignored — never commit real API keys
+- Backend normalizes AI output defensively to handle malformed responses
+- Frontend simulates progress while backend processes batches
+- Rows with neither email nor mobile are automatically skipped
