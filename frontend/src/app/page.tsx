@@ -1,6 +1,7 @@
 'use client';
 
-import { ChevronRight, FileText, RefreshCw, Sparkles } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { ChevronRight, FileText, RefreshCw, Sparkles, Wifi, WifiOff, Loader } from 'lucide-react';
 import CSVPreviewTable from '@/components/CSVPreviewTable';
 import DropZone from '@/components/DropZone';
 import ProgressBar from '@/components/ProgressBar';
@@ -9,7 +10,25 @@ import StepIndicator from '@/components/StepIndicator';
 import ThemeToggle from '@/components/ThemeToggle';
 import { useCSVImport } from '@/hooks/useCSVImport';
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
+
 export default function Home() {
+  const [backendStatus, setBackendStatus] = useState<'checking' | 'online' | 'offline'>('checking');
+
+  useEffect(() => {
+    const ping = async () => {
+      try {
+        const res = await fetch(`${API_URL}/health`, { signal: AbortSignal.timeout(15000) });
+        setBackendStatus(res.ok ? 'online' : 'offline');
+      } catch {
+        setBackendStatus('offline');
+      }
+    };
+    ping();
+    // Keep backend warm every 9 minutes while page is open
+    const interval = setInterval(ping, 9 * 60 * 1000);
+    return () => clearInterval(interval);
+  }, []);
   const {
     step,
     file,
@@ -40,6 +59,21 @@ export default function Home() {
             </div>
           </div>
           <div className="flex items-center gap-3">
+            {/* Backend status indicator */}
+            <div className={`flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium ${
+              backendStatus === 'online'
+                ? 'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300'
+                : backendStatus === 'offline'
+                ? 'bg-red-100 text-red-600 dark:bg-red-900/40 dark:text-red-300'
+                : 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/40 dark:text-yellow-300'
+            }`}>
+              {backendStatus === 'online'
+                ? <><Wifi size={12} /> API Ready</>
+                : backendStatus === 'offline'
+                ? <><WifiOff size={12} /> API Offline</>
+                : <><Loader size={12} className="animate-spin" /> Warming up...</>
+              }
+            </div>
             {step > 1 ? (
               <button
                 onClick={handleReset}
